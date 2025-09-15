@@ -2,8 +2,6 @@
 
 This is a todo list application web application built as part of The Odin Project curriculum. The goal of this project is to practice working with JavaScript modules, Webpack, and local storage.
 
-> **Note:** Available on [Vercel]().
-
 ## Screenshot
 
 ![](screenshot.png)
