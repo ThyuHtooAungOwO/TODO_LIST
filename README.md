@@ -28,7 +28,7 @@ Tasks and projects are saved in the browser's local storage, so that users' data
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/ThyuHtooAungOwO/TODO_LIST.git
+   git clone https://github.com/thyuhtooaung-dev/TODO_LIST.git
    ```
 2. Navigate to the project directory:
    ```bash
